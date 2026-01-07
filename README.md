@@ -8,3 +8,5 @@ use new to if you will create an object
 
 [01]
 day 3
+
+i didn't do anything today

@@ -10,3 +10,4 @@ use new to if you will create an object
 day 3
 
 i didn't do anything today
+this file is for nothing

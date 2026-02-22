@@ -11,3 +11,12 @@ day 3
 
 i didn't do anything today
 this file is for nothing
+
+
+
+need to practice more 
+for loop
+while loop
+exeption
+class 
+inheritance 
